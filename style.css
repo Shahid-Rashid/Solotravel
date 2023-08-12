@@ -52,7 +52,7 @@ ul li:hover {
 }
 
 #main {
-    background-image: url(./[Assets]/main.jpg);
+    background-image: url(./Assets/main.jpg);
     height: 70vh;
     background-size: cover;
     display: flex;
